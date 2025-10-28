@@ -7,7 +7,7 @@ const dns = require('dns');
 const { exec } = require('child_process');
 
 // Token de tu bot
-const token = '7071059106:AAH6Ks3LIwe92EXem6kWqCjWttCFupiUAoU';
+const token = '';
 
 // ID del chat de administrador, reemplaza con tu ID de chat real
 const adminChatId = '6898905627';
@@ -191,4 +191,5 @@ function checkDisk() {
 setInterval(checkCPU, 86400000); // 86400000 milisegundos == 24 horas
 
 // Verificar el uso del disco cada semana
+
 setInterval(checkDisk, 604800000); // 604800000 milisegundos == 1 semana
