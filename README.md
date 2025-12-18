@@ -3,7 +3,7 @@
 Programado en Node.js</i>
 Se utiizará un Linux Server y se configurará instalando todas las dependencias necesarias para luego conectarlo al bot de telegram en nuestros dispositivos móviles,pc...
 <h3>Primer paso- Creación de máquina virtual EC2</h3>
-Acudiremos al menú principal de nuestra consola, aquí tendremos que buscar un apartado que indique “Lanzar una máquina virtual”. Haremos clic sobre ella.
+Acudiremos al menú principal de nuestra consola, aquí tendremos que buscar un apartado que indique “Lanzar una máquina virtual”. Haremos clic sobre ella.<br>
 <img width="886" height="258" alt="image" src="https://github.com/user-attachments/assets/c7a7544d-0801-46a1-bea3-6274156e84e8" />
 Se nos desplegará un menú, y lo primero que se pedirá será un nombre y/o etiquetas para la nueva instancia, puede ser cualquier nombre. En el lado derecho marcado con rojo podremos ir viendo el resumen a medida que vayamos configurando la máquina.
 En cuanto a la imagen del sistema operativo, tendremos que elegir la que necesitemos en el menú.
